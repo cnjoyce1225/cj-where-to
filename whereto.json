@@ -24,34 +24,34 @@
   "ratings": [
     {
       "city": "Split",
-      "affordability": "Grocery shopping",
-      "nightlife": "eggs, bacon, gummy bears",
-      "cuisine": "2024-02-20T17:00",
-      "safety": "-10",
+      "affordability": "10",
+      "nightlife": "8",
+      "cuisine": "9",
+      "safety": "8",
       "id": 1
     },
     {
       "city": "Galway",
-      "affordability": "Grocery shopping",
-      "nightlife": "eggs, bacon, gummy bears",
-      "cuisine": "2024-04-02T15:00",
-      "safety": "-30",
+      "affordability": "7",
+      "nightlife": "10",
+      "cuisine": "7",
+      "safety": "9",
       "id": 2
     },
     {
       "city": "Zurich",
-      "affordability": "Grocery shopping",
-      "nightlife": "eggs, bacon, gummy bears",
-      "cuisine": "2024-03-10T09:00",
-      "safety": "-60",
+      "affordability": "4",
+      "nightlife": "7",
+      "cuisine": "7",
+      "safety": "9",
       "id": 3
     },
     {
       "city": "New Orleans",
-      "affordability": "Grocery shopping",
-      "nightlife": "eggs, bacon, gummy bears",
-      "cuisine": "2024-05-11T14:00",
-      "safety": "-20",
+      "affordability": "9",
+      "nightlife": "10",
+      "cuisine": "10",
+      "safety": "7",
       "id": 4
     }
   ]
