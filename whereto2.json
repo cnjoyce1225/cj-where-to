@@ -32,38 +32,26 @@
   "users": [
     {
       "name": "Kathy Barnes"
-      "city": "Split",
-      "affordability": "10",
-      "nightlife": "8",
-      "cuisine": "9",
-      "safety": "8",
+      "city_visited": "Split", "Seattle", "New York",
+      "city_to_visit": "Tokyo", "Sydney", "Barcelona"
       "id": 1
     },
     {
-      "name": "Rex Florstein"
-      "city": "Galway",
-      "affordability": "7",
-      "nightlife": "10",
-      "cuisine": "7",
-      "safety": "9",
+      "name": "Rex Fieldman"
+      "city_visited": "Galway", "London", "Austin",
+      "city_to_visit": "Delhi", "Johannesburg", "Paris"
       "id": 2
     },
     {
       "name": "Ida McHugh"
-      "city": "Zurich",
-      "affordability": "4",
-      "nightlife": "7",
-      "cuisine": "7",
-      "safety": "9",
+      "city_visited": "Zurich", "Berlin", "Milan",
+      "city_to_visit": "Rome", "Boston", "Reykjavik"
       "id": 3
     },
     {
       "name": "Chris O'Brien"
-      "city": "New Orleans",
-      "affordability": "9",
-      "nightlife": "10",
-      "cuisine": "10",
-      "safety": "7",
+      "city_visited": "Denver", "Miami", "Mexico City",
+      "city_to_visit": "Bogota", "Prague", "DC"
       "id": 4
     }
   ]
